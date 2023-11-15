@@ -1,0 +1,14 @@
+E:\gitbase\GenericDataStruct\GenericDataStruct\bin\Debug\net6.0\GenericDataStruct.exe
+E:\gitbase\GenericDataStruct\GenericDataStruct\bin\Debug\net6.0\GenericDataStruct.deps.json
+E:\gitbase\GenericDataStruct\GenericDataStruct\bin\Debug\net6.0\GenericDataStruct.runtimeconfig.json
+E:\gitbase\GenericDataStruct\GenericDataStruct\bin\Debug\net6.0\GenericDataStruct.dll
+E:\gitbase\GenericDataStruct\GenericDataStruct\bin\Debug\net6.0\GenericDataStruct.pdb
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.GeneratedMSBuildEditorConfig.editorconfig
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.AssemblyInfoInputs.cache
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.AssemblyInfo.cs
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.csproj.CoreCompileInputs.cache
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.dll
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\refint\GenericDataStruct.dll
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.pdb
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\GenericDataStruct.genruntimeconfig.cache
+E:\gitbase\GenericDataStruct\GenericDataStruct\obj\Debug\net6.0\ref\GenericDataStruct.dll

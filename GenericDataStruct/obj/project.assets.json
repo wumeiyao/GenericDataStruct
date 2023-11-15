@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wumeiyao\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\CSharp\\GenericDataStruct\\GenericDataStruct\\GenericDataStruct.csproj",
+      "projectUniqueName": "E:\\gitbase\\GenericDataStruct\\GenericDataStruct\\GenericDataStruct.csproj",
       "projectName": "GenericDataStruct",
-      "projectPath": "D:\\Project\\CSharp\\GenericDataStruct\\GenericDataStruct\\GenericDataStruct.csproj",
-      "packagesPath": "C:\\Users\\wumeiyao\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\CSharp\\GenericDataStruct\\GenericDataStruct\\obj\\",
+      "projectPath": "E:\\gitbase\\GenericDataStruct\\GenericDataStruct\\GenericDataStruct.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\gitbase\\GenericDataStruct\\GenericDataStruct\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wumeiyao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
