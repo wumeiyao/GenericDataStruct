@@ -1,5 +1,5 @@
 using System;
-namespace SimpleDataStruct.Struct.Line
+namespace GenericDataStruct.Struct.Line
 {
     public class MyList<T>
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleDataStruct.Struct.Line
+namespace GenericDataStruct.Struct.Line
 {
     public class Node<T>
     {
