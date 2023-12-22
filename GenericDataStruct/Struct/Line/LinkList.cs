@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace GenericDataStruct.Struct.Line
 {
 
-    public class SingleLinkList<T>
+    public class LinkList<T>
     {
         private Node<T> head;
         public Node<T> Head
@@ -15,7 +15,7 @@ namespace GenericDataStruct.Struct.Line
             get { return head; }
             set { head = value; }
         }
-        public SingleLinkList()
+        public LinkList()
         {
             head = null;
         }
